@@ -1,0 +1,6 @@
+2024-03-21 21:47:03,950 - INFO - START solution_template =============================================
+2024-03-21 21:47:03,950 - INFO - START solution_template Start Time = 2024-03-21 21:47:03
+2024-03-21 21:47:03,950 - INFO - solution_template Step 0 - Initialize the configuration file parser
+2024-03-21 21:47:03,951 - INFO - Process solution_template Step 0 - Initializing and starting Logging Process.
+2024-03-21 21:47:08,403 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-03-21 21:47:08,403 - INFO - NumExpr defaulting to 8 threads.

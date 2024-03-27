@@ -1,0 +1,16 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-16 13:02:29,892 - INFO - START solution_template =============================================
+2024-03-16 13:02:29,892 - INFO - START solution_template Start Time = 2024-03-16 13:02:29
+2024-03-16 13:02:29,892 - INFO - solution_template Step 0 - Initialize the configuration file parser
+2024-03-16 13:02:29,893 - INFO - Process solution_template Step 0 - Initializing and starting Logging Process.
+2024-03-16 13:02:30,091 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-03-16 13:02:30,092 - INFO - NumExpr defaulting to 8 threads.
+2024-03-16 13:02:30,882 - INFO - PERFORMANCE solution_template The total process duration was:0.99
+2024-03-16 13:02:30,882 - INFO - PERFORMANCE solution_template Stop Time = 2024-03-16 13:02:30
+2024-03-16 13:02:30,883 - INFO - PERFORMANCE solution_template Short process duration less than 3 Seconds:0.99
+2024-03-16 13:02:30,883 - INFO - PERFORMANCE solution_template Performance optimization is not reccomended
+2024-03-16 13:02:30,883 - INFO - END solution_template =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
