@@ -1,6 +1,6 @@
 # Create Solution  -  streamline the development process by generating a starter project
 
-![Code Logo](unzip_automation.png)
+![Code Logo](code.png)
 
 ## Description
 
