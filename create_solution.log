@@ -1,0 +1,6 @@
+2024-04-01 22:14:32,207 - INFO - START create_solution =============================================
+2024-04-01 22:14:32,207 - INFO - START create_solution Start Time = 2024-04-01 22:14:32
+2024-04-01 22:14:32,207 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2024-04-01 22:14:32,208 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-04-01 22:14:41,226 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-04-01 22:14:41,226 - INFO - NumExpr defaulting to 8 threads.
