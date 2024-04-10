@@ -10,6 +10,20 @@ The "create_solution" app is a powerful tool designed to streamline the developm
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, configure it, and Change it. 
 
+## The process automates:
+
+1. Create solution directory and copies template
+2. Generates GITHUB repository
+3. Configures and brands the new solution
+4. Registers the new solution
+5. Creates solution voice over script
+6. Generate readme.md documentation file
+7. Creates solution PowerPoint
+8. Generates solution educational video
+9. Publishes to Github
+10. Optional - Publishes to Youtube
+
+
 ## Features
 
 - Easy to understand and use  
