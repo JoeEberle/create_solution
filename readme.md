@@ -4,7 +4,8 @@ Template for kick starting sophisticated python projects
 
 ![Image image_filename](code.png)
 
-A **Solution Registry** program efficiently organizes a list of solutions by storing essential details such as their name, subdirectory, and short definition. Additionally, it offers comprehensive descriptions for each solution, allowing users to access detailed information and context to better understand and utilize them within their projects. This structured approach enhances accessibility and facilitates seamless navigation, ensuring clarity and efficiency in managing various solutions.
+The **Create Solution** application streamlines development by generating a customizable solution template, which is then tailored and configured to specific project requirements. Following customization, it seamlessly initiates Git version control and pushes the configured solution to GitHub, ensuring efficient collaboration and version management within the development workflow.
+
 ![Image image_filename](sample.png)
 
 ## Features
