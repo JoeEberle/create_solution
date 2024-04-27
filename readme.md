@@ -4,10 +4,7 @@ Template for kick starting sophisticated python projects
 
 ![Image image_filename](code.png)
 
-Welcome to the solution **Create Solution** - an example for your projects
-
-Template for kick starting sophisticated python projects 
-
+A **Solution Registry** program efficiently organizes a list of solutions by storing essential details such as their name, subdirectory, and short definition. Additionally, it offers comprehensive descriptions for each solution, allowing users to access detailed information and context to better understand and utilize them within their projects. This structured approach enhances accessibility and facilitates seamless navigation, ensuring clarity and efficiency in managing various solutions.
 ![Image image_filename](sample.png)
 
 ## Features
