@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Create Solution - Template for kick starting sophisticated python projects 
 Template for kick starting sophisticated python projects 
 
@@ -7,8 +9,6 @@ Template for kick starting sophisticated python projects
 The **Create Solution** application streamlines development by generating a customizable solution template, which is then tailored and configured to specific project requirements. Following customization, it seamlessly initiates Git version control and pushes the configured solution to GitHub, ensuring efficient collaboration and version management within the development workflow.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
