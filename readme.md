@@ -44,4 +44,7 @@ To get started with the **Create Solution** solution repository, follow these st
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](create_solution.png)  <br>![additional_image](flowchart.png.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](solution_template.png)  <br>![additional_image](sample-checkpoint.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](create_solution.png)  <br>![additional_image](flowchart.png.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](solution_template.png)  <br>![additional_image](sample-checkpoint.png)  <br>
+    
