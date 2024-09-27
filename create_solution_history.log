@@ -156,3 +156,31 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-09-27 07:52:11,527 - INFO - START create_solution =============================================
+2024-09-27 07:52:11,527 - INFO - START create_solution Start Time = 2024-09-27 07:52:11
+2024-09-27 07:52:11,527 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2024-09-27 07:52:11,527 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-09-27 07:52:20,790 - INFO - PERFORMANCE create_solution The total process duration was:9.26
+2024-09-27 07:52:20,790 - INFO - PERFORMANCE create_solution Stop Time = 2024-09-27 07:52:20
+2024-09-27 07:52:20,790 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:9.26
+2024-09-27 07:52:20,790 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2024-09-27 07:52:20,790 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-09-27 07:57:36,574 - INFO - START create_solution =============================================
+2024-09-27 07:57:36,574 - INFO - START create_solution Start Time = 2024-09-27 07:57:36
+2024-09-27 07:57:36,574 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2024-09-27 07:57:36,574 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-09-27 07:57:37,682 - INFO - PERFORMANCE create_solution The total process duration was:1.11
+2024-09-27 07:57:37,683 - INFO - PERFORMANCE create_solution Stop Time = 2024-09-27 07:57:37
+2024-09-27 07:57:37,683 - INFO - PERFORMANCE create_solution Short process duration less than 3 Seconds:1.11
+2024-09-27 07:57:37,683 - INFO - PERFORMANCE create_solution Performance optimization is not reccomended
+2024-09-27 07:57:37,683 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
