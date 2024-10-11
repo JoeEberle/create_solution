@@ -119,7 +119,7 @@ To get started with the **Create Solution** solution repository, follow these st
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](create_solution.png)  <br>![additional_image](flowchart.png.png)  <br>![additional_image](solution_template.png)  <br>![additional_image](sample-checkpoint.png)  <br>
+ ![additional_image](create_solution.png)  <br>![additional_image](creating_a_new_solution.png)  <br>![additional_image](flowchart.png.png)  <br>![additional_image](solution_template.png)  <br>![additional_image](sample-checkpoint.png)  <br>
     
 
 ## Github    
