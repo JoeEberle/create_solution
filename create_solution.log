@@ -1,4 +1,9 @@
-2024-10-15 19:49:57,524 - INFO - START create_solution =============================================
-2024-10-15 19:49:57,525 - INFO - START create_solution Start Time = 2024-10-15 19:49:57
-2024-10-15 19:49:57,525 - INFO - create_solution Step 0 - Initialize the configuration file parser
-2024-10-15 19:49:57,525 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-10-15 22:32:22,177 - INFO - START create_solution =============================================
+2024-10-15 22:32:22,177 - INFO - START create_solution Start Time = 2024-10-15 22:32:22
+2024-10-15 22:32:22,177 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2024-10-15 22:32:22,177 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-10-15 22:32:28,145 - INFO - PERFORMANCE create_solution The total process duration was:5.97
+2024-10-15 22:32:28,145 - INFO - PERFORMANCE create_solution Stop Time = 2024-10-15 22:32:28
+2024-10-15 22:32:28,145 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:5.97
+2024-10-15 22:32:28,145 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2024-10-15 22:32:28,145 - INFO - END create_solution =============================================
