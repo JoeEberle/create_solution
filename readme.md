@@ -85,7 +85,7 @@ Each step in this process helps ensure that the solution is well-documented, pro
 
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
