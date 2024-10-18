@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Create Solution - Template for kick starting sophisticated python projects ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Create Solution 
+    ## Template for kick starting sophisticated python projects 
+    ![Image image_filename](code.png)
 ## Overview of Create Solution 
 The **Create Solution** application streamlines development by generating a customizable solution template, which is then tailored and configured to specific project requirements. Following customization, it seamlessly initiates Git version control and pushes the configured solution to GitHub, ensuring efficient collaboration and version management within the development workflow.
 
@@ -95,12 +98,15 @@ To get started with the **Create Solution** solution repository, follow these st
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
