@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Create Solution 
-    ## Template for kick starting sophisticated python projects 
+    
+# Create Solution 
+
+## Template for kick starting sophisticated python projects 
+
     ![Image image_filename](code.png)
 ## Overview of Create Solution 
 The **Create Solution** application streamlines development by generating a customizable solution template, which is then tailored and configured to specific project requirements. Following customization, it seamlessly initiates Git version control and pushes the configured solution to GitHub, ensuring efficient collaboration and version management within the development workflow.
@@ -108,9 +111,9 @@ To get started with the **Create Solution** solution repository, follow these st
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Create Solution** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -120,6 +123,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](create_solution.png)  <br>![additional_image](creating_a_new_solution.png)  <br>![additional_image](flowchart.png.png)  <br>![additional_image](solution_template.png)  <br>![additional_image](sample-checkpoint.png)  <br>
