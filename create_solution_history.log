@@ -464,3 +464,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-02 21:09:58,509 - INFO - START create_solution =============================================
+2025-05-02 21:09:58,509 - INFO - START create_solution Start Time = 2025-05-02 21:09:58
+2025-05-02 21:09:58,509 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2025-05-02 21:09:58,509 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2025-05-02 21:10:03,726 - INFO - PERFORMANCE create_solution The total process duration was:5.22
+2025-05-02 21:10:03,726 - INFO - PERFORMANCE create_solution Stop Time = 2025-05-02 21:10:03
+2025-05-02 21:10:03,726 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:5.22
+2025-05-02 21:10:03,726 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2025-05-02 21:10:03,726 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-02 23:52:54,502 - INFO - START create_solution =============================================
+2025-05-02 23:52:54,503 - INFO - START create_solution Start Time = 2025-05-02 23:52:54
+2025-05-02 23:52:54,503 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2025-05-02 23:52:54,504 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2025-05-02 23:52:56,381 - INFO - PERFORMANCE create_solution The total process duration was:1.88
+2025-05-02 23:52:56,381 - INFO - PERFORMANCE create_solution Stop Time = 2025-05-02 23:52:56
+2025-05-02 23:52:56,381 - INFO - PERFORMANCE create_solution Short process duration less than 3 Seconds:1.88
+2025-05-02 23:52:56,383 - INFO - PERFORMANCE create_solution Performance optimization is not reccomended
+2025-05-02 23:52:56,383 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-02 23:54:22,220 - INFO - START create_solution =============================================
+2025-05-02 23:54:22,220 - INFO - START create_solution Start Time = 2025-05-02 23:54:22
+2025-05-02 23:54:22,220 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2025-05-02 23:54:22,220 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2025-05-02 23:54:24,521 - INFO - PERFORMANCE create_solution The total process duration was:2.30
+2025-05-02 23:54:24,521 - INFO - PERFORMANCE create_solution Stop Time = 2025-05-02 23:54:24
+2025-05-02 23:54:24,521 - INFO - PERFORMANCE create_solution Short process duration less than 3 Seconds:2.30
+2025-05-02 23:54:24,522 - INFO - PERFORMANCE create_solution Performance optimization is not reccomended
+2025-05-02 23:54:24,522 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
