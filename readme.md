@@ -4,11 +4,7 @@
 
 ## Template for kick starting sophisticated python projects 
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## Overview of Create Solution 
 The **Create Solution** application streamlines development by generating a customizable solution template, which is then tailored and configured to specific project requirements. Following customization, it seamlessly initiates Git version control and pushes the configured solution to GitHub, ensuring efficient collaboration and version management within the development workflow.
 
@@ -95,13 +91,7 @@ Each step in this process helps ensure that the solution is well-documented, pro
 
 
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
