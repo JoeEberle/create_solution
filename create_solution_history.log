@@ -702,3 +702,87 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-02-12 14:19:29,772 - INFO - START create_solution =============================================
+2026-02-12 14:19:29,772 - INFO - START create_solution Start Time = 2026-02-12 14:19:29
+2026-02-12 14:19:29,772 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2026-02-12 14:19:29,772 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2026-02-12 14:19:37,350 - INFO - PERFORMANCE create_solution The total process duration was:7.58
+2026-02-12 14:19:37,350 - INFO - PERFORMANCE create_solution Stop Time = 2026-02-12 14:19:37
+2026-02-12 14:19:37,350 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:7.58
+2026-02-12 14:19:37,351 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2026-02-12 14:19:37,351 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-02-23 16:33:05,974 - INFO - START create_solution =============================================
+2026-02-23 16:33:05,975 - INFO - START create_solution Start Time = 2026-02-23 16:33:05
+2026-02-23 16:33:05,975 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2026-02-23 16:33:05,975 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2026-02-23 16:33:34,806 - INFO - PERFORMANCE create_solution The total process duration was:28.83
+2026-02-23 16:33:34,806 - INFO - PERFORMANCE create_solution Stop Time = 2026-02-23 16:33:34
+2026-02-23 16:33:34,806 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:28.83
+2026-02-23 16:33:34,806 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2026-02-23 16:33:34,806 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-03-05 11:55:26,114 - INFO - START create_solution =============================================
+2026-03-05 11:55:26,114 - INFO - START create_solution Start Time = 2026-03-05 11:55:26
+2026-03-05 11:55:26,114 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2026-03-05 11:55:26,117 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2026-03-05 11:58:49,800 - INFO - PERFORMANCE create_solution The total process duration was:203.69
+2026-03-05 11:58:49,801 - INFO - PERFORMANCE create_solution Stop Time = 2026-03-05 11:58:49
+2026-03-05 11:58:49,801 - INFO - PERFORMANCE create_solution Medium process duration greater than 3 minutes:203.69
+2026-03-05 11:58:49,801 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2026-03-05 11:58:49,801 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-04-21 21:55:31,386 - INFO - START create_solution =============================================
+2026-04-21 21:55:31,386 - INFO - START create_solution Start Time = 2026-04-21 21:55:31
+2026-04-21 21:55:31,386 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2026-04-21 21:55:31,386 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2026-04-21 21:55:38,013 - INFO - PERFORMANCE create_solution The total process duration was:6.63
+2026-04-21 21:55:38,014 - INFO - PERFORMANCE create_solution Stop Time = 2026-04-21 21:55:38
+2026-04-21 21:55:38,014 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:6.63
+2026-04-21 21:55:38,014 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2026-04-21 21:55:38,014 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-04-21 22:00:15,504 - INFO - START create_solution =============================================
+2026-04-21 22:00:15,504 - INFO - START create_solution Start Time = 2026-04-21 22:00:15
+2026-04-21 22:00:15,505 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2026-04-21 22:00:15,505 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2026-04-21 22:00:21,980 - INFO - PERFORMANCE create_solution The total process duration was:6.48
+2026-04-21 22:00:21,980 - INFO - PERFORMANCE create_solution Stop Time = 2026-04-21 22:00:21
+2026-04-21 22:00:21,980 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:6.48
+2026-04-21 22:00:21,980 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2026-04-21 22:00:21,980 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-04-23 14:11:32,252 - INFO - START create_solution =============================================
+2026-04-23 14:11:32,252 - INFO - START create_solution Start Time = 2026-04-23 14:11:32
+2026-04-23 14:11:32,252 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2026-04-23 14:11:32,253 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2026-04-23 14:11:50,464 - INFO - PERFORMANCE create_solution The total process duration was:18.21
+2026-04-23 14:11:50,464 - INFO - PERFORMANCE create_solution Stop Time = 2026-04-23 14:11:50
+2026-04-23 14:11:50,465 - INFO - PERFORMANCE create_solution Low process duration less than 3 minutes:18.21
+2026-04-23 14:11:50,465 - INFO - PERFORMANCE create_solution Performance optimization is optional
+2026-04-23 14:11:50,465 - INFO - END create_solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
